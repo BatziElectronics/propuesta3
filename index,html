@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Propuesta</title>
+<link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+<p>Estar a tu lado es disfrutar de la vida, me has dado alegría y seguridad. No hay un
+un solo día que no te ame con locura, te has convertido en mi fuerza y felicidad, ¡Te 
+amo,dame la fortuna de convertirte en mi esposa!</p> 
+<p>Con esta canción quiero decirte lo que siento por ti. 
+<a href="https://www.youtube.com/watch?v=s8SSuSxUKbg">Pulsame</a></p>
+</body>
+<div class="img">
+<img src="propuesta.png" width="80%" height="300px">
+</div>
+</html>
